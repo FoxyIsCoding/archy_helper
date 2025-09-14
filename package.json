@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "inquirer": "^12.9.4",
-    "ora": "^8.2.0"
+    "ora": "^8.2.0",
+    "require": "^2.4.20"
   }
 }
